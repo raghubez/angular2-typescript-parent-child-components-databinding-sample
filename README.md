@@ -12,7 +12,7 @@ npm install -g typescript
 
 1: Clone repo
 ```
-git clone https://github.com/raghubez/angular2-typescript-contacts-sampleapp
+git clone https://github.com/raghubez/angular2-typescript-parent-child-components-databinding-sample
 ```
 2: Install packages
 ```
