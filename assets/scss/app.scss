@@ -1,0 +1,23 @@
+body {
+  padding: 32px;
+  margin: 32px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.clicked{
+  color:red;
+
+}
+
+.parent{
+	background: #D3D3D3;
+	padding-left: 50px;
+}
+
+.child{
+	margin-left: 50px;
+	padding-left: 50px;
+	background: #7B68EE;
+	border: 1px solid black;
+}
